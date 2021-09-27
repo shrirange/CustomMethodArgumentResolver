@@ -1,0 +1,5 @@
+<publisher><publisherName>testpublisherName</publisherName><publisherType>testpublisherType</publisherType>
+<Books>
+<Book><bookName>testbookName</bookName><price>12</price><publishedDate>2003-12-12</publishedDate><Authors><Author><authorname>testauthorName</authorname></Author></Authors></Book>  
+</Books>
+</publisher>
